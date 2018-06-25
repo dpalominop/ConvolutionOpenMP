@@ -12,7 +12,7 @@ g++ -Wall -fopenmp -o convolucion convolucion.cpp
 ```
 
 * **threads**: Número de hilos para ejecutar.
-* **print**: Etiqueta para indicar que se impriman las matrices del kernel, imagen y resultado.
+* **print(Opcional)**: Etiqueta para indicar que se impriman las matrices del kernel, imagen y resultado.
 
 ## IMPORTANTE:
 Si se va a imprimir las matrices, usar una imagen de tamaño reducido para apreciar correctamente los valores:
