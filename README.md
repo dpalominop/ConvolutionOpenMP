@@ -3,7 +3,7 @@ Cálculo de la convolución usando OpenMP
 
 ## Compilación
 
-g++ -Wall -fopenmp -o convolucion convlucion.cpp
+g++ -Wall -fopenmp -o convolucion convolucion.cpp
 
 
 ## Ejecución
